@@ -1,0 +1,3 @@
+informações sobre a CloeBot:
+
+a ideia da Cloe é ter um atendente  virtual igual quando vamos em uma loja física. Ela é voltada ao mercado varejista de de roupa, ou seja ela faz buscas por roupas pelas características do produto (tecido, estilo, ao gênero do usuário, etc). A Cloe  irá utilizar duas APIs sendo uma delas  voltada apenas para as operações do Database e a outra API voltada a conversação com o usuário final , sendo o intermediário entre a API do Database e o usuário.  
