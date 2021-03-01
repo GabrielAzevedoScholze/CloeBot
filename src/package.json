@@ -1,4 +1,15 @@
 {
+  "name": "cloe-bot-api",
+  "version": "1.0.0",
+  "description": "Cloe bot loja de roupas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "teste"
+  },
+  "author": "Gabriel Azevedo Scholze",
+  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
